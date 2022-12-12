@@ -1,0 +1,5 @@
+C:\D\Git_Hub\AskNet\AskNetEXE\AskNetEXE_2_0\bin\Debug\AskNetEXE_2_0.exe
+C:\D\Git_Hub\AskNet\AskNetEXE\AskNetEXE_2_0\bin\Debug\AskNetEXE_2_0.pdb
+C:\D\Git_Hub\AskNet\AskNetEXE\AskNetEXE_2_0\obj\Debug\AskNetEXE_2_0.csproj.CoreCompileInputs.cache
+C:\D\Git_Hub\AskNet\AskNetEXE\AskNetEXE_2_0\obj\Debug\AskNetEXE_2_0.exe
+C:\D\Git_Hub\AskNet\AskNetEXE\AskNetEXE_2_0\obj\Debug\AskNetEXE_2_0.pdb

@@ -1,0 +1,9 @@
+C:\D\Git_Hub\AskNet\AskNetEXE\AskNetEXE\bin\Debug\AskNetEXE.exe.config
+C:\D\Git_Hub\AskNet\AskNetEXE\AskNetEXE\bin\Debug\AskNetEXE.exe
+C:\D\Git_Hub\AskNet\AskNetEXE\AskNetEXE\bin\Debug\AskNetEXE.pdb
+C:\D\Git_Hub\AskNet\AskNetEXE\AskNetEXE\obj\Debug\AskNetEXE.csproj.CoreCompileInputs.cache
+C:\D\Git_Hub\AskNet\AskNetEXE\AskNetEXE\obj\Debug\AskNetEXE.exe
+C:\D\Git_Hub\AskNet\AskNetEXE\AskNetEXE\obj\Debug\AskNetEXE.pdb
+C:\D\Git_Hub\AskNet\AskNetEXE\AskNetEXE\bin\Debug\AskNet_2_0.dll
+C:\D\Git_Hub\AskNet\AskNetEXE\AskNetEXE\bin\Debug\AskNet_2_0.pdb
+C:\D\Git_Hub\AskNet\AskNetEXE\AskNetEXE\obj\Debug\AskNetEXE.csproj.CopyComplete
