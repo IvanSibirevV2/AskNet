@@ -8,6 +8,9 @@ namespace AskNetEXE_2_0
     {
         static void Main(string[] args)
         {
+            System.Console.WriteLine("Привет мир");
+            System.Console.WriteLine(AskNet.AskNet.Ask());            
+            System.Console.ReadLine();
         }
     }
 }
