@@ -33,7 +33,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="AskNet_3_5, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\AskNet.0.0.4\lib\net35\AskNet_3_5.dll</HintPath>
+      <HintPath>..\packages\AskNet.0.0.1\lib\net35\AskNet_3_5.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
