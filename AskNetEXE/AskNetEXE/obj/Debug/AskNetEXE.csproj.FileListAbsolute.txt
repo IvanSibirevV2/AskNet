@@ -7,3 +7,4 @@ C:\D\Git_Hub\AskNet\AskNetEXE\AskNetEXE\obj\Debug\AskNetEXE.pdb
 C:\D\Git_Hub\AskNet\AskNetEXE\AskNetEXE\bin\Debug\AskNet_2_0.dll
 C:\D\Git_Hub\AskNet\AskNetEXE\AskNetEXE\bin\Debug\AskNet_2_0.pdb
 C:\D\Git_Hub\AskNet\AskNetEXE\AskNetEXE\obj\Debug\AskNetEXE.csproj.CopyComplete
+C:\D\Git_Hub\AskNet\AskNetEXE\AskNetEXE\obj\Debug\AskNetEXE.csproj.AssemblyReference.cache

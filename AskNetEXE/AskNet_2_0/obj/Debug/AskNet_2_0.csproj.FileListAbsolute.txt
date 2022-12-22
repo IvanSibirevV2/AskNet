@@ -3,3 +3,4 @@ C:\D\Git_Hub\AskNet\AskNetEXE\AskNet_2_0\bin\Debug\AskNet_2_0.pdb
 C:\D\Git_Hub\AskNet\AskNetEXE\AskNet_2_0\obj\Debug\AskNet_2_0.csproj.CoreCompileInputs.cache
 C:\D\Git_Hub\AskNet\AskNetEXE\AskNet_2_0\obj\Debug\AskNet_2_0.dll
 C:\D\Git_Hub\AskNet\AskNetEXE\AskNet_2_0\obj\Debug\AskNet_2_0.pdb
+C:\D\Git_Hub\AskNet\AskNetEXE\AskNet_2_0\obj\Debug\AskNet_2_0.csproj.AssemblyReference.cache

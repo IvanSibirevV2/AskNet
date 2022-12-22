@@ -1,0 +1,10 @@
+C:\D\Git_Hub\AskNet\AskNetEXE\AskNet_4_8_EXE\bin\Debug\AskNet_4_8_EXE.exe.config
+C:\D\Git_Hub\AskNet\AskNetEXE\AskNet_4_8_EXE\bin\Debug\AskNet_4_8_EXE.exe
+C:\D\Git_Hub\AskNet\AskNetEXE\AskNet_4_8_EXE\bin\Debug\AskNet_4_8_EXE.pdb
+C:\D\Git_Hub\AskNet\AskNetEXE\AskNet_4_8_EXE\obj\Debug\AskNet_4_8_EXE.csproj.AssemblyReference.cache
+C:\D\Git_Hub\AskNet\AskNetEXE\AskNet_4_8_EXE\obj\Debug\AskNet_4_8_EXE.csproj.CoreCompileInputs.cache
+C:\D\Git_Hub\AskNet\AskNetEXE\AskNet_4_8_EXE\obj\Debug\AskNet_4_8_EXE.exe
+C:\D\Git_Hub\AskNet\AskNetEXE\AskNet_4_8_EXE\obj\Debug\AskNet_4_8_EXE.pdb
+C:\D\Git_Hub\AskNet\AskNetEXE\AskNet_4_8_EXE\bin\Debug\AskNet_4_8.dll
+C:\D\Git_Hub\AskNet\AskNetEXE\AskNet_4_8_EXE\bin\Debug\AskNet_4_8.pdb
+C:\D\Git_Hub\AskNet\AskNetEXE\AskNet_4_8_EXE\obj\Debug\AskNet_4_8_EXE.csproj.CopyComplete

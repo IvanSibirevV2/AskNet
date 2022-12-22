@@ -10,6 +10,9 @@ namespace AskNet_4_5_EXE
     {
         static void Main(string[] args)
         {
+            System.Console.WriteLine("Привет мир");
+            System.Console.WriteLine(AskNet.AskNet.Ask());
+            System.Console.ReadLine();
         }
     }
 }

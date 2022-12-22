@@ -1,5 +1,4 @@
-﻿
-namespace AskNet
+﻿namespace AskNet
 {
     public static class AskNet
     {

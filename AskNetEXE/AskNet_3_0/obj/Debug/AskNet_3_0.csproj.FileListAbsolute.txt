@@ -1,0 +1,6 @@
+C:\D\Git_Hub\AskNet\AskNetEXE\AskNet_3_0\bin\Debug\AskNet_3_0.dll
+C:\D\Git_Hub\AskNet\AskNetEXE\AskNet_3_0\bin\Debug\AskNet_3_0.pdb
+C:\D\Git_Hub\AskNet\AskNetEXE\AskNet_3_0\obj\Debug\AskNet_3_0.csproj.AssemblyReference.cache
+C:\D\Git_Hub\AskNet\AskNetEXE\AskNet_3_0\obj\Debug\AskNet_3_0.csproj.CoreCompileInputs.cache
+C:\D\Git_Hub\AskNet\AskNetEXE\AskNet_3_0\obj\Debug\AskNet_3_0.dll
+C:\D\Git_Hub\AskNet\AskNetEXE\AskNet_3_0\obj\Debug\AskNet_3_0.pdb
